@@ -1,0 +1,72 @@
+++++++ write() & read() ++++++
+
+2KB took: 0
+
+4KB took: 0
+
+8KB took: 0
+
+16KB took: 0
+
+32KB took: 0
+
+64KB took: 0.001
+
+128KB took: 0
+
+256KB took: 0
+
+512KB took: 0.001
+
+1024KB took: 0.002
+
+2048KB took: 0.004
+
+4096KB took: 0.02
+
+8192KB took: 0.018
+
+16384KB took: 0.03
+
+32768KB took: 0.044
+
+65536KB took: 0.136
+
+131072KB took: 0.217
+
+++++++ fwrite() & fread() ++++++
+
+2KB took: 0
+
+4KB took: 0.001
+
+8KB took: 0
+
+16KB took: 0
+
+32KB took: 0.001
+
+64KB took: 0
+
+128KB took: 0.001
+
+256KB took: 0.001
+
+512KB took: 0.001
+
+1024KB took: 0.002
+
+2048KB took: 0.002
+
+4096KB took: 0.006
+
+8192KB took: 0.011
+
+16384KB took: 0.018
+
+32768KB took: 0.037
+
+65536KB took: 0.092
+
+131072KB took: 0.176
+

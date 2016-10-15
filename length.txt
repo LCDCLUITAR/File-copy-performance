@@ -1,0 +1,10 @@
+6 Ghz = 6,000,000,000 cycles/second 
+1 cycle = 1.667 * 10^-10 seconds 
+
+speed of light = 299,792,458 m/s
+75% of speed of light = 224,844,344 m/s
+
+224,844,344 m/s * 1.667 * 10^-10 s = 0.03748 m
+1 sec	1 cycle	1 cycle 
+
+max distance = 0.03748 meters or 3.748 cm
